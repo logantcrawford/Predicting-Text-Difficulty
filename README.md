@@ -1,2 +1,3 @@
 # Predicting-Text-Difficulty
-Natural language processing classifier that can help us identify exactly which parts of the article’s text might need to be simplified
+
+Each person interprets textual information at different skill levels. Students, children, adults with learning and reading difficulties, and those with English as a second language differ dramatically in their reading comprehension. In real-life applications and dependent on the target population of the product, there is a need to make the text more readable and understandable. Originally stemming from [Simple English Wikipedia](https://en.wikipedia.org/wiki/Simple_English_Wikipedia), the website aims to be accessible for all people by primarily having articles written in Basic English and Learning English. For this project, we aim to create a similar natural language processing classifier that can help us identify exactly which parts of the article’s text might need to be simplified. 
